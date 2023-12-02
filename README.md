@@ -25,5 +25,5 @@
 
 ![alt text](https://github.com/Dark1NF1N17Y/Video-Compressor/blob/main/Tool.png?raw=true)
 
-**CopyRight 1NF1N17Y 2023**
+**&copy; CopyRight 1NF1N17Y 2023**
 
