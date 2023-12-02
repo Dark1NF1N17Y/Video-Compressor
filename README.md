@@ -20,7 +20,7 @@
 
 - Wait Until It Stops Processing
 
-> [!WARNING]
+> [!CAUTION]
 > Avoid Entering Wrong Output Extension Or Forget Entering It
 
 ## To Do List
