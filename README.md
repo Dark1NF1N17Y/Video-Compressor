@@ -23,6 +23,14 @@
 > [!WARNING]
 > Avoid Entering Wrong Output Extension Or Forget Entering It
 
+## To Do List
+
+- [x] Add Inputs To The Code
+- [ ] Update The Code To V2
+- [ ] Program Windows Version
+
+## Tool Preview
+
 ![alt text](https://github.com/Dark1NF1N17Y/Video-Compressor/blob/main/Tool.png?raw=true)
 
 **&copy; CopyRight 1NF1N17Y 2023**
