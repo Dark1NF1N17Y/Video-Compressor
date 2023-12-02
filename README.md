@@ -1,4 +1,4 @@
-# Video-Compressor
+# Video Compressor
 
 - Video Compressor Made In Python3
 
@@ -10,7 +10,7 @@
 
 - Open Terminal
 
-- Run python3 compressor.py , Use Your System Python3 Command Example `python3` `python` `py`
+- Run python3 compressor.py
 
 - Enter The Target Video Name Followed By It's Path And The Extension ( Path Not Needed If The Video In The Same Folder )
 
@@ -19,6 +19,8 @@
 - Extension Example : .mp4
 
 - Wait Until It Stops Processing
+> [!NOTE]
+> Change `python3` With Your OS Command : `python` `py`
 
 > [!CAUTION]
 > Avoid Entering Wrong Output Extension Or Forget Entering It
