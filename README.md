@@ -26,7 +26,7 @@
 > Avoid Entering Wrong Output Extension Or Forget Entering It
 
 > [!IMPORTANT]
-> Quality Get Less `Ex: 3 Hour Film Will Be Pixeled` So Choose The Best Settings For Your Video
+> It May Be Pixeled `Ex: 3 Hour Film` So Get The Best Settings
 
 ## To Do List
 
