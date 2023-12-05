@@ -27,9 +27,12 @@
 
 ## To Do List
 
-- [x] Add Inputs To The Code
-- [ ] Update The Code To V2
+- [x] Enable Inputs In The Code
+- [ ] Fix Problems
 - [ ] Program Windows Version
+- [ ] Remove .mp4 Require
+- [ ] Check If The File Available Before Starting
+- [ ] Check If The Output File Has Problems
 
 ## Tool Preview
 
