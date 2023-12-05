@@ -25,6 +25,9 @@
 > [!CAUTION]
 > Avoid Entering Wrong Output Extension Or Forget Entering It
 
+> [!IMPORTANT]
+> Quality Get Less `Ex: 3 Hour Film Will Be Pixeled` So Choose The Best Settings For Your Video
+
 ## To Do List
 
 - [x] Enable Inputs In The Code
@@ -33,6 +36,7 @@
 - [ ] Remove .mp4 Require
 - [ ] Check If The File Available Before Starting
 - [ ] Check If The Output File Has Problems
+- [ ] Add Finish Sound To The Code `Finish Alarm`
 
 ## Tool Preview
 
