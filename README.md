@@ -2,7 +2,7 @@
 
 - Video Compressor Made In Python3
 
-- It Compresses The Large Video Into 60MB Or Less With No Cuts Or Resizing
+- It Compresses The Large Video Into 60MB Or Less With No Cutting Or Resizing
 
 - Easy To Use , Just Enter The Video Path And The Output Name With The Extension Ex: output.mp4
 
