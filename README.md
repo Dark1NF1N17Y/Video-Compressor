@@ -10,13 +10,13 @@
 
 - Open Terminal
 
+- For First Time : Install ffmpeg Package Using `pip3 install ffmpeg`
+
 - Run python3 compressor.py
 
 - Enter The Target Video Name 
 
 - Enter The Output Name
-
-- For First Time : Install ffmpeg Package Using `pip3 install ffmpeg`
 
 - Wait Until It Stops Processing
 > [!NOTE]
@@ -30,12 +30,13 @@
 
 ## To Do List
 
-- [x] Enable Inputs In The Code And Improve Them
 - [x] Fix Known Problems
 - [x] Remove .mp4 Require
 - [x] Check If The File Available Before Starting
 - [x] Check If The Output File Has Problems
 - [ ] Add Finish Sound To The Code `Finish Alarm`
+- [ ] Make Config File For Other Settings
+- [ ] Add Target Size Option
 - [ ] Program Windows Version
 
 ## Tool Preview
