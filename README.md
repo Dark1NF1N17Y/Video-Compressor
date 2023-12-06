@@ -4,7 +4,7 @@
 
 - It Compresses The Large Video Into 60MB Or Less With No Cutting Or Resizing
 
-- Easy To Use , Just Enter The Video Path And The Output Name With The Extension Ex: output.mp4
+- Easy To Use , Just Enter The Video And Output Name
 
 ## How To Use
 
@@ -12,11 +12,11 @@
 
 - Run python3 compressor.py
 
-- Enter The Target Video Name Followed By It's Path And The Extension ( Path Not Needed If The Video In The Same Folder )
+- Enter The Target Video Name 
 
-- Enter The Output Name Followed By The Extension
+- Enter The Output Name
 
-- Extension Example : .mp4
+- For First Time : Install ffmpeg Package Using `pip3 install ffmpeg`
 
 - Wait Until It Stops Processing
 > [!NOTE]
@@ -30,13 +30,13 @@
 
 ## To Do List
 
-- [x] Enable Inputs In The Code
-- [ ] Fix Problems
-- [ ] Program Windows Version
-- [ ] Remove .mp4 Require
-- [ ] Check If The File Available Before Starting
-- [ ] Check If The Output File Has Problems
+- [x] Enable Inputs In The Code And Improve Them
+- [x] Fix Known Problems
+- [x] Remove .mp4 Require
+- [x] Check If The File Available Before Starting
+- [x] Check If The Output File Has Problems
 - [ ] Add Finish Sound To The Code `Finish Alarm`
+- [ ] Program Windows Version
 
 ## Tool Preview
 
